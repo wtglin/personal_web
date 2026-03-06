@@ -285,7 +285,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 <!--te-->
 
-## Getting started
+## Getting started（it's not easy to start？）
 
 **⚠️ Important: Use "Use this template" (not fork)**
 
