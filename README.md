@@ -251,7 +251,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
     - [Desktop](#desktop)
     - [Mobile](#mobile)
   - [Table Of Contents](#table-of-contents)
-  - [Getting started](#getting-started)
+  - [Getting started（it's not easy to start？）](#getting-startedits-not-easy-to-start)
   - [Installing and Deploying](#installing-and-deploying)
   - [Customizing](#customizing)
   - [GitHub Copilot Agents](#github-copilot-agents)
